@@ -1,1 +1,2 @@
-https://realpython.com/python-logging/#the-logging-module
+https://realpython.com/python-logging/#the-logging-module - RealPython
+https://docs.python.org/3/howto/logging.html - PythonDocs

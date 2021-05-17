@@ -1,0 +1,17 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:And non-ASCII stuff, too, like Øresund and Malmö
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "PythonDocs_01_logging_module_log_to_file.py", line 14, in <module>
+    c = a / b
+NameError: name 'a' is not defined
