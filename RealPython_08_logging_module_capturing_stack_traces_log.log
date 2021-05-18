@@ -1,0 +1,5 @@
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "RealPython_08B_logging_module_capturing_stack_traces_using_exception.py", line 13, in <module>
+    c = a / b
+ZeroDivisionError: division by zero
